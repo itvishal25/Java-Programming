@@ -12,3 +12,4 @@ class Main {
         System.out.println("ArrayList: " + animals);
     }
 }
+// kinjal
